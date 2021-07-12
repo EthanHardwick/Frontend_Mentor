@@ -119,7 +119,9 @@ p{
         margin: 0 1.5rem;  
     }
 
-   
+   .container{
+        margin: 10rem 15rem;
+    }
 }
 
 
