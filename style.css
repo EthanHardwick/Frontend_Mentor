@@ -83,6 +83,7 @@ p{
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         margin: 8rem 10rem;
+        padding: 25% 8%;
     }
 
     .main-content{
